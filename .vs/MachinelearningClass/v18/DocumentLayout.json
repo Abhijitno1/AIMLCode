@@ -1,65 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\",
+  "WorkspaceRootPath": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\hierarchyembedder\\hierarchyembeddingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\hierarchyembedder\\hierarchyembeddingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\hierarchyembedder\\hierarchyembeddingtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\hierarchyembedder\\hierarchyembeddingtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\alllabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\alllabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\week3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\week3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\chunkinglessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\chunkinglessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91E377CA-062D-49DA-879C-5E670700CB90}|MCPServerDotNet\\MCPServerStdIO.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\mcpserverdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91E377CA-062D-49DA-879C-5E670700CB90}|MCPServerDotNet\\MCPServerStdIO.csproj|solutionrelative:mcpserverdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A381FF6-D977-42CD-985A-A51D66F7B711}|MCPServerHttp\\MCPServerHttp.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\mcpserverhttp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A381FF6-D977-42CD-985A-A51D66F7B711}|MCPServerHttp\\MCPServerHttp.csproj|solutionrelative:mcpserverhttp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\sqlscripts\\qdrantinterviewstructure.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\sqlscripts\\qdrantinterviewstructure.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\sqlscripts\\sqlscriptforlab.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\sqlscripts\\sqlscriptforlab.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\machinelearningclass\\otherlabs(agenticonnx).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\otherlabs(agenticonnx).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\otherlabs(agenticonnx).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A381FF6-D977-42CD-985A-A51D66F7B711}|MCPServerHttp\\MCPServerHttp.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\mcpserverhttp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\alllabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\alllabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\hierarchyembedder\\hierarchyembeddingmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\hierarchyembedder\\hierarchyembeddingmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\lab32consumingonnx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\lab32consumingonnx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\week3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\week3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\chunkinglessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\chunkinglessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\machinelearningclass\\sqlscripts\\sqlscriptforlab.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC348251-9BE5-4BA9-831D-7750ECD90EC3}|MachinelearningClass\\MachinelearningClass.csproj|solutionrelative:machinelearningclass\\sqlscripts\\sqlscriptforlab.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A381FF6-D977-42CD-985A-A51D66F7B711}|MCPServerHttp\\MCPServerHttp.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\mcpserverhttp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A381FF6-D977-42CD-985A-A51D66F7B711}|MCPServerHttp\\MCPServerHttp.csproj|solutionrelative:mcpserverhttp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pract\\External\\Shivkumar\\AIMLCode\\.mcp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.mcp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{185A4F00-F574-5F80-CD98-7F3478D756BB}|MCPClient\\MCPClient.csproj|d:\\pract\\external\\shivkumar\\aimlcode\\mcpclient\\mcpclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{185A4F00-F574-5F80-CD98-7F3478D756BB}|MCPClient\\MCPClient.csproj|d:\\pract\\external\\shivkumar\\aimlcodeold\\mcpclient\\mcpclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{185A4F00-F574-5F80-CD98-7F3478D756BB}|MCPClient\\MCPClient.csproj|solutionrelative:mcpclient\\mcpclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -70,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,89 +98,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Week3.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Week3.cs",
-              "RelativeDocumentMoniker": "MachinelearningClass\\Week3.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Week3.cs",
-              "RelativeToolTip": "MachinelearningClass\\Week3.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:07:58.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Models.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Models.cs",
-              "RelativeDocumentMoniker": "MachinelearningClass\\Models.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Models.cs",
-              "RelativeToolTip": "MachinelearningClass\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:07:29.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Data.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Data\\Data.cs",
-              "RelativeDocumentMoniker": "MachinelearningClass\\Data\\Data.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Data\\Data.cs",
-              "RelativeToolTip": "MachinelearningClass\\Data\\Data.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAcAAAABAAAAAAAAAA==",
+              "Title": "OtherLabs(AgenticONNX).cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\OtherLabs(AgenticONNX).cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\OtherLabs(AgenticONNX).cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\OtherLabs(AgenticONNX).cs",
+              "RelativeToolTip": "MachinelearningClass\\OtherLabs(AgenticONNX).cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAYwNkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:03:22.73Z",
+              "WhenOpened": "2026-11-09T02:11:04.17Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "QdrantInterviewStructure.txt",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\SQLScripts\\QdrantInterviewStructure.txt",
-              "RelativeDocumentMoniker": "MachinelearningClass\\SQLScripts\\QdrantInterviewStructure.txt",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\SQLScripts\\QdrantInterviewStructure.txt",
-              "RelativeToolTip": "MachinelearningClass\\SQLScripts\\QdrantInterviewStructure.txt",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-09-06T20:02:49.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": ".mcp.json",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\.mcp.json",
-              "RelativeDocumentMoniker": ".mcp.json",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\.mcp.json",
-              "RelativeToolTip": ".mcp.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-06T20:02:49.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AllLabs.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\AllLabs.cs",
-              "RelativeDocumentMoniker": "MachinelearningClass\\AllLabs.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\AllLabs.cs",
-              "RelativeToolTip": "MachinelearningClass\\AllLabs.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAowEkAAAAIAAAAAAAAAA==",
+              "Title": "HierarchyEmbeddingTester.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingTester.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingTester.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingTester.cs",
+              "RelativeToolTip": "MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:02:49.857Z",
+              "WhenOpened": "2026-11-09T01:35:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HierarchyEmbeddingEngine.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingEngine.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingEngine.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingEngine.cs",
+              "RelativeToolTip": "MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T00:40:50.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HierarchyEmbeddingModels.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingModels.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingModels.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingModels.cs",
+              "RelativeToolTip": "MachinelearningClass\\HierarchyEmbedder\\HierarchyEmbeddingModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T00:24:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab32ConsumingONNX.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Lab32ConsumingONNX.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\Lab32ConsumingONNX.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Lab32ConsumingONNX.cs",
+              "RelativeToolTip": "MachinelearningClass\\Lab32ConsumingONNX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:33:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllLabs.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\AllLabs.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\AllLabs.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\AllLabs.cs",
+              "RelativeToolTip": "MachinelearningClass\\AllLabs.cs",
+              "ViewState": "AgIAAIQCAAAAAAAAAAD4v5UCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T01:31:53.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Week3.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Week3.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\Week3.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Week3.cs",
+              "RelativeToolTip": "MachinelearningClass\\Week3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:07:58.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Data\\Data.cs",
+              "RelativeDocumentMoniker": "MachinelearningClass\\Data\\Data.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Data\\Data.cs",
+              "RelativeToolTip": "MachinelearningClass\\Data\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:03:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ChunkingLessons.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\ChunkingLessons.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\ChunkingLessons.cs",
               "RelativeDocumentMoniker": "MachinelearningClass\\ChunkingLessons.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\ChunkingLessons.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\ChunkingLessons.cs",
               "RelativeToolTip": "MachinelearningClass\\ChunkingLessons.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-06T20:02:49.857Z",
               "EditorCaption": ""
@@ -193,34 +214,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Common.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Common.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Common.cs",
               "RelativeDocumentMoniker": "MachinelearningClass\\Common.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Common.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Common.cs",
               "RelativeToolTip": "MachinelearningClass\\Common.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-06T20:02:49.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OtherLabs(AgenticONNX).cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\OtherLabs(AgenticONNX).cs",
-              "RelativeDocumentMoniker": "MachinelearningClass\\OtherLabs(AgenticONNX).cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\OtherLabs(AgenticONNX).cs",
-              "RelativeToolTip": "MachinelearningClass\\OtherLabs(AgenticONNX).cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:02:49.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPServerHttp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MCPServerHttp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MCPServerHttp\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPServerHttp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MCPServerHttp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MCPServerHttp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SQlScriptForLab.txt",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\SQLScripts\\SQlScriptForLab.txt",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\SQLScripts\\SQlScriptForLab.txt",
               "RelativeDocumentMoniker": "MachinelearningClass\\SQLScripts\\SQlScriptForLab.txt",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\SQLScripts\\SQlScriptForLab.txt",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\SQLScripts\\SQlScriptForLab.txt",
               "RelativeToolTip": "MachinelearningClass\\SQLScripts\\SQlScriptForLab.txt",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -240,50 +248,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MCPClient",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPClient\\MCPClient.csproj",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MCPClient\\MCPClient.csproj",
               "RelativeDocumentMoniker": "MCPClient\\MCPClient.csproj",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPClient\\MCPClient.csproj",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MCPClient\\MCPClient.csproj",
               "RelativeToolTip": "MCPClient\\MCPClient.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-06T20:02:49.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPServerHttp\\Program.cs",
-              "RelativeDocumentMoniker": "MCPServerHttp\\Program.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPServerHttp\\Program.cs",
-              "RelativeToolTip": "MCPServerHttp\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-06T20:02:49.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPServerDotNet\\Program.cs",
-              "RelativeDocumentMoniker": "MCPServerDotNet\\Program.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MCPServerDotNet\\Program.cs",
-              "RelativeToolTip": "MCPServerDotNet\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:02:49.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Program.cs",
+              "DocumentMoniker": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Program.cs",
               "RelativeDocumentMoniker": "MachinelearningClass\\Program.cs",
-              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\Program.cs",
+              "ToolTip": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Program.cs",
               "RelativeToolTip": "MachinelearningClass\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-06T20:02:49.89Z",
               "EditorCaption": ""

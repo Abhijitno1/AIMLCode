@@ -9,14 +9,24 @@ namespace MachinelearningClass
     {
         public static string sqlConnectionString = "Data Source=DESKTOP-ILFSBH1\\SQLEXPRESS01;Initial Catalog=InterviewQuestions;Integrated Security=True;Trust Server Certificate=True";
 
-        public static string datapath = "C:\\Users\\shivB\\source\\repos\\MachinelearningClass\\MachinelearningClass\\Data\\";
+        public static string datapath = "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\Data";
          static  void Main(string[] args)
         {
             //OtherLabs.Lab29SemanticKernel().Wait();
-            AllLabs.Lab19ToolingusingSemanticKernel().Wait();
+            //AllLabs.Lab2_SimplestMLCode();
+            //AllLabs.Lab3_ModelisMathsFormula();
+            //AllLabs.Lab4_WithMultiFeature();
+            //AllLabs.Lab5_SimplestMLCodeUsingTestData();
+            //AllLabs.Lab6_CheckingRSandRMSE();
+            //AllLabs.Lab7_UsingTestData();
+            //AllLabs.Lab19ToolingusingSemanticKernel().Wait();
             //AllLabs.Lab21_QdrantRag().Wait();
             //ChunkingLessons.FixedAndRecursiveChunking();
-            Console.Read();
+            //AllLabs.Lab11_SimpleCustering();
+            //SkylabOnnxModel.Run();
+            HierarchyEmbedder.HierarchyEmbeddingTester.Test();
+			//Week4.Lab15_SimpleBertEncoding();
+			Console.Read();
         }
         
         public static void Clustering()

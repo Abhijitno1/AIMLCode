@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\MachinelearningClass.csproj": {}
+    "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\MachinelearningClass.csproj": {}
   },
   "projects": {
-    "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\MachinelearningClass.csproj": {
+    "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\InterviewTools\\InterviewTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\MachinelearningClass.csproj",
-        "projectName": "MachinelearningClass",
-        "projectPath": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\MachinelearningClass.csproj",
+        "projectUniqueName": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\InterviewTools\\InterviewTools.csproj",
+        "projectName": "InterviewTools",
+        "projectPath": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\InterviewTools\\InterviewTools.csproj",
         "packagesPath": "C:\\Users\\abhij\\.nuget\\packages\\",
-        "outputPath": "D:\\Pract\\External\\Shivkumar\\AIMLCode\\MachinelearningClass\\obj\\",
+        "outputPath": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\InterviewTools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -55,6 +55,86 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "ModelContextProtocol.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\MachinelearningClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\MachinelearningClass.csproj",
+        "projectName": "MachinelearningClass",
+        "projectPath": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\MachinelearningClass.csproj",
+        "packagesPath": "C:\\Users\\abhij\\.nuget\\packages\\",
+        "outputPath": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\MachinelearningClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\29.1.33\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\InterviewTools\\InterviewTools.csproj": {
+                "projectPath": "D:\\Pract\\External\\Shivkumar\\AIMLCodeOld\\InterviewTools\\InterviewTools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
             "AllMiniLmL6V2Sharp": {
               "target": "Package",
               "version": "[0.0.3, )"
@@ -71,6 +151,18 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
+            "Microsoft.Agents.AI.Harness": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            },
+            "Microsoft.Agents.AI.OpenAI": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            },
+            "Microsoft.Agents.AI.Workflows": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            },
             "Microsoft.Data.Analysis": {
               "target": "Package",
               "version": "[0.23.0, )"
@@ -78,10 +170,6 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.1.4, )"
-            },
-            "Microsoft.Extensions.AI": {
-              "target": "Package",
-              "version": "[10.7.0, )"
             },
             "Microsoft.Extensions.AI.OpenAI": {
               "target": "Package",
@@ -106,6 +194,14 @@
             "Microsoft.ML.Parquet": {
               "target": "Package",
               "version": "[0.21.1, )"
+            },
+            "Microsoft.ML.Tokenizers": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.ML.Tokenizers.Data.O200kBase": {
+              "target": "Package",
+              "version": "[2.0.1, )"
             },
             "Microsoft.SemanticKernel": {
               "target": "Package",
@@ -148,7 +244,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
