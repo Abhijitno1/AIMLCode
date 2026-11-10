@@ -26,9 +26,18 @@ namespace MachinelearningClass.HierarchyEmbedder
 
 			// Define the ML.NET Pipeline mapping C# inputs to ONNX model inputs/outputs
 			var pipeline = _mlContext.Transforms.ApplyOnnxModel(
-				outputColumnNames: new[] { "output_embeddings" },
-				inputColumnNames: new[] { "input_ids", "attention_mask" },
-				modelFile: onnxModelPath
+				outputColumnNames: new[] { "last_hidden_state" },
+				inputColumnNames: new[] { "input_ids", "attention_mask", "token_type_ids" },
+				modelFile: onnxModelPath,
+				shapeDictionary: new Dictionary<string, int[]>
+				{
+					["input_ids"] = new[] { 1, 256 },
+					["attention_mask"] = new[] { 1, 256 },
+					["token_type_ids"] = new[] { 1, 256 }
+				},
+				gpuDeviceId: null,
+				fallbackToCpu: false,
+				recursionLimit: 100
 			);
 
 			// Fit an empty data view to instantiate the transformer wrapper
@@ -60,7 +69,8 @@ namespace MachinelearningClass.HierarchyEmbedder
 			var prediction = predictionEngine.Predict(new TextData
 			{
 				InputIds = inputIds,
-				AttentionMask = attentionMask
+				AttentionMask = attentionMask,
+				TokenTypeIds = new long[inputIds.Length]
 			});
 
 			// The ONNX model outputs token-level embeddings: [seq_len, dim]
@@ -97,4 +107,3 @@ namespace MachinelearningClass.HierarchyEmbedder
 		}
 	}
 }
-

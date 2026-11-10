@@ -1,5 +1,4 @@
-﻿using AllMiniLmL6V2Sharp;
-using Microsoft.ML.Tokenizers;
+﻿using Microsoft.ML.Tokenizers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +12,8 @@ namespace MachinelearningClass.HierarchyEmbedder
 		public static void Test()
 		{
 
-			// Use a concrete tokenizer implementation; here we use the Tiktoken tokenizer for the 'gpt-4o' model.
-			var tokenizer = TiktokenTokenizer.CreateForModel("gpt-4o");
+			var vocabPath = @"D:\Pract\Mine\Misc\TreeNodeSearchModel\hierarchical_transformer_model_onnx\vocab.txt";
+			var tokenizer = BertTokenizer.Create(vocabPath, new BertOptions());
 			string onnxModelPath = @"D:\Pract\Mine\Misc\TreeNodeSearchModel\hierarchical_transformer_model_onnx\onnx\model.onnx";
 			var engine = new HierarchyEmbeddingEngine(onnxModelPath, tokenizer);
 			string texttobeMatched = "E:\\TestGround\\DirectoryMap\\Group 1\\Crescent Origins\\Achintya Mountain Figure\\Achintya in Bali.png";

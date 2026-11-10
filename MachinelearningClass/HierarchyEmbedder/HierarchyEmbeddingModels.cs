@@ -13,16 +13,22 @@ namespace MachinelearningClass.HierarchyEmbedder
 
 	public class TextData
 	{
-		[VectorType(1, 256)] // Adjust based on token length limit
+		[VectorType(1, 256)] // batch size x sequence length
+		[ColumnName("input_ids")]
 		public long[] InputIds { get; set; }
 
 		[VectorType(1, 256)]
+		[ColumnName("attention_mask")]
 		public long[] AttentionMask { get; set; }
+
+		[VectorType(1, 256)]
+		[ColumnName("token_type_ids")]
+		public long[] TokenTypeIds { get; set; }
 	}
 
 	public class EmbeddingOutput
 	{
-		[ColumnName("output_embeddings")]
+		[ColumnName("last_hidden_state")]
 		public float[] Vector { get; set; }
 	}
 }
